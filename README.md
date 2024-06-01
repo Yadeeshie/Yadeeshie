@@ -4,6 +4,7 @@ I'm a 21-year-old developer based in Sri Lanka.
 
 - 👩‍🎓 I’m a second-year computer science student studying at IIT - Sri Lanka
 - 👀 I’m interested in creating digital experiences.
+- 🚀 Explore my [blog](https://yadeeshie.hashnode.dev/) where I share insights and learnings.
 - 🌱 I’m currently learning about UI/UX.
  
 ## 📦 Toolbox
